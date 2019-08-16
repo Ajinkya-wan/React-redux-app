@@ -1,4 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is demo app for redux usage in react using react-redux npm packagae.
+
+
+## Install Dependencies
+
+### `npm install`
 
 ## Available Scripts
 
